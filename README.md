@@ -1,7 +1,7 @@
 # python-apache-virtualhost
 Python and Apache - Virtual Host configuration
 
-<pre>
+```
 <VirtualHost *:80>
     ServerAdmin webmaster@localhost
     ServerName example.com
@@ -28,4 +28,4 @@ Python and Apache - Virtual Host configuration
         Order allow,deny
         Allow from all
 </Directory>
-</pre>
+```
