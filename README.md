@@ -1,6 +1,9 @@
 # python-apache-virtualhost
 Python and Apache - Virtual Host configuration
 
+Python 3
+Apache 2
+
 ```
 <VirtualHost *:80>
     ServerAdmin webmaster@localhost
